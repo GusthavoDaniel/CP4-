@@ -1,6 +1,6 @@
 # React Native TanStack Query - Lista de Usuários
 
-Este é um aplicativo React Native que demonstra o uso do TanStack Query para consumir dados de uma API pública e exibir uma lista de usuários com interface aprimorada.
+Este é um aplicativo React Native que demonstra o uso do TanStack Query para consumir dados de uma API pública 
 
 ## Integrantes do Grupo
 
